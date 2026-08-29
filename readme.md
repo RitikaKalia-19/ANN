@@ -1,8 +1,8 @@
 # Lab 1 — PyTorch Tutorial: Building an Artificial Neuron
 
-**Course:** Neural Networks (7th Semester)
-**Duration:** 3 Hours
-**Software/Tools:** Python, Jupyter Notebook / Google Colab, PyTorch, NumPy, Matplotlib
+- **Course:** Neural Networks 
+- **Duration:** 3 Hours
+- **Software/Tools:** Python, Jupyter Notebook / Google Colab, PyTorch, NumPy, Matplotlib
 
 ## Overview
 
